@@ -1,4 +1,4 @@
-# deeplearning
+# Deep Learning
 ---
 ### Repositório reservado para minhas anotações sobre Deep Learning 
 - Aqui estão aquivos retratando alguns estudos de caso sobre Deep Learning, que utilizo para melhorar meu aprendizado.
